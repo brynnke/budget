@@ -1,27 +1,20 @@
 {
-  "name": "budget-app",
+  "name": "budget",
   "version": "1.0.0",
   "description": "## Desciption This application will give users a fast and easy way to track their money. They will be able to have offline functionality to view their finacial information anywhere.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "lite-server": "lite-server"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/brynnke/budget.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/brynnke/budget/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
-  "dependencies": {
-    "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  }
+  "homepage": "https://github.com/brynnke/budget#readme"
 }

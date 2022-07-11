@@ -20,4 +20,3 @@ This image shows the web application's appearance:
 ## criteria
 
 ## author 
-github user brynnke
