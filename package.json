@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/brynnke/budget/issues"
   },
-  "homepage": "https://github.com/brynnke/budget#readme"
+  "homepage": "https://github.com/brynnke/budget#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.4",
+    "morgan": "^1.10.0"
+  }
 }
