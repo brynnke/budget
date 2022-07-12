@@ -6,7 +6,7 @@ This application will give users a fast and easy way to track their money. They 
 ## Mock up
 This image shows the web application's appearance:
 
-https://github.com/brynnke/budget/blob/main/19-pwa-homework-demo-01.png
+![image](https://user-images.githubusercontent.com/100329799/178545675-98dc8806-fea7-4acc-b1be-20d9c8eab80d.png)
 
 ## Deployed Heroku Link
 
