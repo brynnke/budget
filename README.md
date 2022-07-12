@@ -11,7 +11,7 @@ This image shows the web application's appearance:
 ## Deployed Heroku Link
 
 ## Demo
-![gif](https://user-images.githubusercontent.com/100329799/178545553-1ce11463-5224-424a-b134-ed2fe8bb70e2.png)
+![image](https://user-images.githubusercontent.com/100329799/178546533-cf76baee-95b4-4c1f-9b80-839d663e5d39.png)
 
 ## application functionailites
 - Offline duties
