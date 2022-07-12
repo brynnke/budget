@@ -11,6 +11,7 @@ https://github.com/brynnke/budget/blob/main/19-pwa-homework-demo-01.png
 ## Deployed Heroku Link
 
 ## Demo
+ezgif.com-gif-maker.gif
 
 ## application functionailites
 - Offline duties
