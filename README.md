@@ -10,7 +10,7 @@ This image shows the web application's appearance:
 
 ## Deployed Heroku Link
 https://damp-dusk-34281.herokuapp.com/
-
+the heroku link doesn't work, however if you 'npm start' and go to http://localhost:3001/ it works.
 ## Demo
 ![image](https://user-images.githubusercontent.com/100329799/178546533-cf76baee-95b4-4c1f-9b80-839d663e5d39.png)
 
