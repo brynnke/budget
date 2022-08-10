@@ -31,3 +31,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## author 
 brynnke 2022
+
+## gif
+![deployed](https://user-images.githubusercontent.com/100329799/184039780-1443ff0e-c71c-443f-b7eb-4e31fb153834.gif)
+
